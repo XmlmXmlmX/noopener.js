@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/XmlmXmlmX/noopener.js#readme",
   "devDependencies": {
+    "bower": "^1.7.9",
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-uglify": "^2.0.0",
