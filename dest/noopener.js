@@ -1,0 +1,1 @@
+!function(){for(var a=document.querySelectorAll('[target="_blank"]'),b=0;b<a.length;b++)a[b].setAttribute("rel","noopener noreferrer")}();
