@@ -9,7 +9,7 @@ You can install it wih bower:
 bower install noopener-js
 ```
 
-Further, you can also install it via NPM:
+Further, you can also install it via [NPM](https://www.npmjs.com/package/noopener-js):
 
 ```
 npm install noopener-js --save
