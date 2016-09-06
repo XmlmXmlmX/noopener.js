@@ -7,3 +7,4 @@ Prevent phishing when use target="_blank"
 
 ## To-Dos
 - Test
+- Update this readme!
