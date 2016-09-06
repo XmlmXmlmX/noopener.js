@@ -1,0 +1,23 @@
+{
+  "name": "noopener-js",
+  "description": "Prevents phishing attacks when use target=\"_blank\".",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Sebastian Hösl"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "rel-noopener",
+    "target-blank"
+  ],
+  "homepage": "https://github.com/XmlmXmlmX/noopener.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "package.json"
+  ]
+}
