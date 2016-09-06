@@ -1,0 +1,29 @@
+{
+  "name": "noopener-js",
+  "version": "1.0.0",
+  "description": "Prevents phishing attacks when use target=\"_blank\".",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XmlmXmlmX/noopener.js.git"
+  },
+  "keywords": [
+    "rel-noopener",
+    "target-blank"
+  ],
+  "author": "Sebastian Hösl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XmlmXmlmX/noopener.js/issues"
+  },
+  "homepage": "https://github.com/XmlmXmlmX/noopener.js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
