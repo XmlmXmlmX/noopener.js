@@ -1,5 +1,5 @@
 # noopener.js
-Prevent phishing when use ```target="_blank"```. This JavaScript is self executed. It will find all ```<a>```-Elements in your document and will set the ```rel```-Atribute to ```"noopener noreferrer"```.
+Prevent phishing when use ```target="_blank"```. This JavaScript is self executed. It will find all ```<a>```-Elements in your document and will set the ```rel```-Attribute to ```"noopener noreferrer"```.
 
 ## Installation
 
